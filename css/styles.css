@@ -1,0 +1,11 @@
+input {
+    border-radius: 15px;
+    border: 2px solid rgb(5, 5, 65);
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: grey;
+    padding: 5px 10px 5px 10px;
+    background-color: azure;
+}
